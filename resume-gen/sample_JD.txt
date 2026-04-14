@@ -1,0 +1,494 @@
+================================================================================
+GERMANY
+================================================================================
+
+Job Title: Junior Software Engineer (Python/Cloud)
+Location: Berlin, Germany (Hybrid) Company: TechNova Solutions GmbH
+
+About Us: TechNova Solutions is a leading innovator in sustainable energy management systems. We are looking for a motivated Junior Software Engineer to join our backend team in Berlin. You will work on scalable cloud services that process real-time data from IoT devices.
+
+Key Responsibilities:
+
+Develop and maintain RESTful APIs using Python (FastAPI/Django).
+Collaborate with data scientists to implement data processing pipelines.
+Assist in managing cloud infrastructure on AWS (Lambda, EC2, S3).
+Write clean, testable, and documented code.
+Participate in code reviews and agile scrum meetings.
+
+Requirements:
+
+Bachelor’s degree in Computer Science, Engineering, or a related technical field.
+Strong knowledge of Python and basic familiarity with SQL databases (PostgreSQL).
+Experience with version control (Git).
+Basic understanding of cloud concepts (AWS/Azure) is a plus.
+Fluent in English; German skills (B1+) are highly desirable.
+Proactive problem solver with a willingness to learn.
+
+What We Offer:
+
+Competitive salary and 30 days of vacation.
+Flexible working hours and home office options.
+Professional development budget.
+A diverse and international team environment.
+
+
+================================================================================
+FRANCE
+================================================================================
+
+Job Title: Backend Developer (Python/Django)
+Location: Paris, France (Hybrid) Company: Lumière Tech SA
+
+About Us: Lumière Tech is an AI-driven logistics startup reshaping the supply chain industry in Europe. We are seeking a talented Backend Developer to help build scalable microservices and optimize our routing algorithms.
+
+Key Responsibilities:
+
+Design, develop, and maintain robust APIs using Python and Django.
+Work closely with frontend engineers to integrate user-facing elements.
+Optimize applications for maximum speed and scalability.
+Implement security and data protection features.
+Write automated tests to ensure code quality.
+
+Requirements:
+
+Bachelor’s degree in Computer Science or similar.
+Proficient in Python and popular frameworks (Django, Flask, etc.).
+Good understanding of REST APIs and CI/CD pipelines.
+Experience with Docker and containerization.
+Fluent in English; French (C1) is required for internal communication.
+Ability to work in a fast-paced agile environment.
+
+What We Offer:
+
+Competitive compensation package.
+Health insurance and commuter benefits (Navigo pass).
+A dynamic and collaborative startup culture.
+Opportunities for career growth and learning.Job Title: Junior Software Engineer (Python/Cloud)
+Location: Berlin, Germany (Hybrid) Company: TechNova Solutions GmbH
+
+About Us: TechNova Solutions is a leading innovator in sustainable energy management systems. We are looking for a motivated Junior Software Engineer to join our backend team in Berlin. You will work on scalable cloud services that process real-time data from IoT devices.
+
+Key Responsibilities:
+
+Develop and maintain RESTful APIs using Python (FastAPI/Django).
+Collaborate with data scientists to implement data processing pipelines.
+Assist in managing cloud infrastructure on AWS (Lambda, EC2, S3).
+Write clean, testable, and documented code.
+Participate in code reviews and agile scrum meetings.
+
+Requirements:
+
+Bachelor’s degree in Computer Science, Engineering, or a related technical field.
+Strong knowledge of Python and basic familiarity with SQL databases (PostgreSQL).
+Experience with version control (Git).
+Basic understanding of cloud concepts (AWS/Azure) is a plus.
+Fluent in English; German skills (B1+) are highly desirable.
+Proactive problem solver with a willingness to learn.
+
+What We Offer:
+
+Competitive salary and 30 days of vacation.
+Flexible working hours and home office options.
+Professional development budget.
+A diverse and international team environment.
+
+
+================================================================================
+FRANCE
+================================================================================
+
+Job Title: Backend Developer (Python/Django)
+Location: Paris, France (Hybrid) Company: Lumière Tech SA
+
+About Us: Lumière Tech is an AI-driven logistics startup reshaping the supply chain industry in Europe. We are seeking a talented Backend Developer to help build scalable microservices and optimize our routing algorithms.
+
+Key Responsibilities:
+
+Design, develop, and maintain robust APIs using Python and Django.
+Work closely with frontend engineers to integrate user-facing elements.
+Optimize applications for maximum speed and scalability.
+Implement security and data protection features.
+Write automated tests to ensure code quality.
+
+Requirements:
+
+Bachelor’s degree in Computer Science or similar.
+Proficient in Python and popular frameworks (Django, Flask, etc.).
+Good understanding of REST APIs and CI/CD pipelines.
+Experience with Docker and containerization.
+Fluent in English; French (C1) is required for internal communication.
+Ability to work in a fast-paced agile environment.
+
+What We Offer:
+
+Competitive compensation package.
+Health insurance and commuter benefits (Navigo pass).
+A dynamic and collaborative startup culture.
+Opportunities for career growth and learning.
+
+
+================================================================================
+ITALY
+================================================================================
+
+Job Title: Data Engineer (Python/Cloud)
+Location: Milan, Italy (Remote/Hybrid) Company: InnovaData SRL
+
+About Us: InnovaData is a fintech consultancy specializing in predictive analytics for the European banking sector. We are looking for a passionate Data Engineer to join our data platform team.
+
+Key Responsibilities:
+
+Build and optimize data pipelines and architectures.
+Assemble large, complex data sets that meet business requirements.
+Identify, design, and implement internal process improvements using Python.
+Work with cloud services (GCP/AWS) to ensure high availability of data tools.
+Collaborate with data scientists and business analysts.
+
+Requirements:
+
+Bachelor’s or Master’s degree in Computer Science, IT, or quantitative field.
+Strong programming fundamentals in Python and SQL.
+Prior experience with big data tools (Spark, Kafka) is a plus.
+Understanding of cloud-native data architectures.
+Fluent in English; Italian language skills (B2+) are preferred.
+Strong analytical and problem-solving skills.
+
+What We Offer:
+
+Flexible remote work policy.
+Ticket restaurant and modern equipment.
+Continuous training and certification support.
+Engaging company events in the heart of Milan.
+
+
+================================================================================
+THE NETHERLANDS
+================================================================================
+
+Job Title: Python Software Engineer
+Location: Amsterdam, The Netherlands (Hybrid) Company: DeltaStream BV
+
+About Us: DeltaStream offers streaming analytics platforms for e-commerce clients. We are expanding our core team in Amsterdam and need a smart Python Engineer who loves dealing with high-throughput systems.
+
+Key Responsibilities:
+
+Develop and improve backend services processing thousands of events per second.
+Write clean and efficient Python code (using asyncio/FastAPI).
+Deploy and monitor applications on Kubernetes.
+Collaborate with cross-functional teams to deliver new product features.
+Participate in system architectural discussions.
+
+Requirements:
+
+Degree in Computer Science or Software Engineering.
+Proven experience with Python and asynchronous programming.
+Knowledge of relational and NoSQL databases (e.g., PostgreSQL, Redis).
+Familiarity with container orchestration (Docker, Kubernetes).
+Fluent in English; basic Dutch skills are advantageous but not required.
+A proactive team player.
+
+What We Offer:
+
+Competitive salary and 8% holiday allowance.
+NS Business Card for commuting.
+Relocation support if applicable.
+Vibrant office located along the canals of Amsterdam.
+
+
+================================================================================
+FINLAND
+================================================================================
+
+Job Title: Cloud Backend Developer (Python)
+Location: Helsinki, Finland (Hybrid) Company: Aurora Solutions Oy
+
+About Us: Aurora Solutions is building next-generation ed-tech platforms for Nordic schools. We are an energetic team looking for a Cloud Backend Developer to strengthen our infrastructure.
+
+Key Responsibilities:
+
+Build and scale backend services for our SaaS platform.
+Integrate third-party educational APIs and manage data flows.
+Maintain infrastructure as code (Terraform) on AWS.
+Write comprehensive unit and integration tests.
+Ensure high security and compliance with GDPR standards.
+
+Requirements:
+
+Higher education in Computer Science or related.
+Solid Python skills and experience with modern frameworks.
+Experience with cloud platforms (AWS preferred).
+Familiarity with Linux and open-source ecosystems.
+Fluent in English; Finnish language skills are a strong plus.
+Independent, responsible, and communicative.
+
+What We Offer:
+
+Competitive salary and comprehensive occupational healthcare.
+Lunch and culture/sports benefits (Edenred/Epassi).
+Flexible hours and remote work possibilities.
+Cozy office in the center of Helsinki with great coffee.
+
+Job Title: Junior Software Engineer (Python/Cloud)
+Location: Berlin, Germany (Hybrid) Company: TechNova Solutions GmbH
+
+About Us: TechNova Solutions is a leading innovator in sustainable energy management systems. We are looking for a motivated Junior Software Engineer to join our backend team in Berlin. You will work on scalable cloud services that process real-time data from IoT devices.
+
+Key Responsibilities:
+
+Develop and maintain RESTful APIs using Python (FastAPI/Django).
+Collaborate with data scientists to implement data processing pipelines.
+Assist in managing cloud infrastructure on AWS (Lambda, EC2, S3).
+Write clean, testable, and documented code.
+Participate in code reviews and agile scrum meetings.
+
+Requirements:
+
+Bachelor’s degree in Computer Science, Engineering, or a related technical field.
+Strong knowledge of Python and basic familiarity with SQL databases (PostgreSQL).
+Experience with version control (Git).
+Basic understanding of cloud concepts (AWS/Azure) is a plus.
+Fluent in English; German skills (B1+) are highly desirable.
+Proactive problem solver with a willingness to learn.
+
+What We Offer:
+
+Competitive salary and 30 days of vacation.
+Flexible working hours and home office options.
+Professional development budget.
+A diverse and international team environment.
+
+
+================================================================================
+FRANCE
+================================================================================
+
+Job Title: Backend Developer (Python/Django)
+Location: Paris, France (Hybrid) Company: Lumière Tech SA
+
+About Us: Lumière Tech is an AI-driven logistics startup reshaping the supply chain industry in Europe. We are seeking a talented Backend Developer to help build scalable microservices and optimize our routing algorithms.
+
+Key Responsibilities:
+
+Design, develop, and maintain robust APIs using Python and Django.
+Work closely with frontend engineers to integrate user-facing elements.
+Optimize applications for maximum speed and scalability.
+Implement security and data protection features.
+Write automated tests to ensure code quality.
+
+Requirements:
+
+Bachelor’s degree in Computer Science or similar.
+Proficient in Python and popular frameworks (Django, Flask, etc.).
+Good understanding of REST APIs and CI/CD pipelines.
+Experience with Docker and containerization.
+Fluent in English; French (C1) is required for internal communication.
+Ability to work in a fast-paced agile environment.
+
+What We Offer:
+
+Competitive compensation package.
+Health insurance and commuter benefits (Navigo pass).
+A dynamic and collaborative startup culture.
+Opportunities for career growth and learning.
+
+
+================================================================================
+ITALY
+================================================================================
+
+Job Title: Data Engineer (Python/Cloud)
+Location: Milan, Italy (Remote/Hybrid) Company: InnovaData SRL
+
+About Us: InnovaData is a fintech consultancy specializing in predictive analytics for the European banking sector. We are looking for a passionate Data Engineer to join our data platform team.
+
+Key Responsibilities:
+
+Build and optimize data pipelines and architectures.
+Assemble large, complex data sets that meet business requirements.
+Identify, design, and implement internal process improvements using Python.
+Work with cloud services (GCP/AWS) to ensure high availability of data tools.
+Collaborate with data scientists and business analysts.
+
+Requirements:
+
+Bachelor’s or Master’s degree in Computer Science, IT, or quantitative field.
+Strong programming fundamentals in Python and SQL.
+Prior experience with big data tools (Spark, Kafka) is a plus.
+Understanding of cloud-native data architectures.
+Fluent in English; Italian language skills (B2+) are preferred.
+Strong analytical and problem-solving skills.
+
+What We Offer:
+
+Flexible remote work policy.
+Ticket restaurant and modern equipment.
+Continuous training and certification support.
+Engaging company events in the heart of Milan.
+
+
+================================================================================
+THE NETHERLANDS
+================================================================================
+
+Job Title: Python Software Engineer
+Location: Amsterdam, The Netherlands (Hybrid) Company: DeltaStream BV
+
+About Us: DeltaStream offers streaming analytics platforms for e-commerce clients. We are expanding our core team in Amsterdam and need a smart Python Engineer who loves dealing with high-throughput systems.
+
+Key Responsibilities:
+
+Develop and improve backend services processing thousands of events per second.
+Write clean and efficient Python code (using asyncio/FastAPI).
+Deploy and monitor applications on Kubernetes.
+Collaborate with cross-functional teams to deliver new product features.
+Participate in system architectural discussions.
+
+Requirements:
+
+Degree in Computer Science or Software Engineering.
+Proven experience with Python and asynchronous programming.
+Knowledge of relational and NoSQL databases (e.g., PostgreSQL, Redis).
+Familiarity with container orchestration (Docker, Kubernetes).
+Fluent in English; basic Dutch skills are advantageous but not required.
+A proactive team player.
+
+What We Offer:
+
+Competitive salary and 8% holiday allowance.
+NS Business Card for commuting.
+Relocation support if applicable.
+Vibrant office located along the canals of Amsterdam.
+
+
+================================================================================
+FINLAND
+================================================================================
+
+Job Title: Cloud Backend Developer (Python)
+Location: Helsinki, Finland (Hybrid) Company: Aurora Solutions Oy
+
+About Us: Aurora Solutions is building next-generation ed-tech platforms for Nordic schools. We are an energetic team looking for a Cloud Backend Developer to strengthen our infrastructure.
+
+Key Responsibilities:
+
+Build and scale backend services for our SaaS platform.
+Integrate third-party educational APIs and manage data flows.
+Maintain infrastructure as code (Terraform) on AWS.
+Write comprehensive unit and integration tests.
+Ensure high security and compliance with GDPR standards.
+
+Requirements:
+
+Higher education in Computer Science or related.
+Solid Python skills and experience with modern frameworks.
+Experience with cloud platforms (AWS preferred).
+Familiarity with Linux and open-source ecosystems.
+Fluent in English; Finnish language skills are a strong plus.
+Independent, responsible, and communicative.
+
+What We Offer:
+
+Competitive salary and comprehensive occupational healthcare.
+Lunch and culture/sports benefits (Edenred/Epassi).
+Flexible hours and remote work possibilities.
+Cozy office in the center of Helsinki with great coffee.
+================================================================================
+ITALY
+================================================================================
+
+Job Title: Data Engineer (Python/Cloud)
+Location: Milan, Italy (Remote/Hybrid) Company: InnovaData SRL
+
+About Us: InnovaData is a fintech consultancy specializing in predictive analytics for the European banking sector. We are looking for a passionate Data Engineer to join our data platform team.
+
+Key Responsibilities:
+
+Build and optimize data pipelines and architectures.
+Assemble large, complex data sets that meet business requirements.
+Identify, design, and implement internal process improvements using Python.
+Work with cloud services (GCP/AWS) to ensure high availability of data tools.
+Collaborate with data scientists and business analysts.
+
+Requirements:
+
+Bachelor’s or Master’s degree in Computer Science, IT, or quantitative field.
+Strong programming fundamentals in Python and SQL.
+Prior experience with big data tools (Spark, Kafka) is a plus.
+Understanding of cloud-native data architectures.
+Fluent in English; Italian language skills (B2+) are preferred.
+Strong analytical and problem-solving skills.
+
+What We Offer:
+
+Flexible remote work policy.
+Ticket restaurant and modern equipment.
+Continuous training and certification support.
+Engaging company events in the heart of Milan.
+
+
+================================================================================
+THE NETHERLANDS
+================================================================================
+
+Job Title: Python Software Engineer
+Location: Amsterdam, The Netherlands (Hybrid) Company: DeltaStream BV
+
+About Us: DeltaStream offers streaming analytics platforms for e-commerce clients. We are expanding our core team in Amsterdam and need a smart Python Engineer who loves dealing with high-throughput systems.
+
+Key Responsibilities:
+
+Develop and improve backend services processing thousands of events per second.
+Write clean and efficient Python code (using asyncio/FastAPI).
+Deploy and monitor applications on Kubernetes.
+Collaborate with cross-functional teams to deliver new product features.
+Participate in system architectural discussions.
+
+Requirements:
+
+Degree in Computer Science or Software Engineering.
+Proven experience with Python and asynchronous programming.
+Knowledge of relational and NoSQL databases (e.g., PostgreSQL, Redis).
+Familiarity with container orchestration (Docker, Kubernetes).
+Fluent in English; basic Dutch skills are advantageous but not required.
+A proactive team player.
+
+What We Offer:
+
+Competitive salary and 8% holiday allowance.
+NS Business Card for commuting.
+Relocation support if applicable.
+Vibrant office located along the canals of Amsterdam.
+
+
+================================================================================
+FINLAND
+================================================================================
+
+Job Title: Cloud Backend Developer (Python)
+Location: Helsinki, Finland (Hybrid) Company: Aurora Solutions Oy
+
+About Us: Aurora Solutions is building next-generation ed-tech platforms for Nordic schools. We are an energetic team looking for a Cloud Backend Developer to strengthen our infrastructure.
+
+Key Responsibilities:
+
+Build and scale backend services for our SaaS platform.
+Integrate third-party educational APIs and manage data flows.
+Maintain infrastructure as code (Terraform) on AWS.
+Write comprehensive unit and integration tests.
+Ensure high security and compliance with GDPR standards.
+
+Requirements:
+
+Higher education in Computer Science or related.
+Solid Python skills and experience with modern frameworks.
+Experience with cloud platforms (AWS preferred).
+Familiarity with Linux and open-source ecosystems.
+Fluent in English; Finnish language skills are a strong plus.
+Independent, responsible, and communicative.
+
+What We Offer:
+
+Competitive salary and comprehensive occupational healthcare.
+Lunch and culture/sports benefits (Edenred/Epassi).
+Flexible hours and remote work possibilities.
+Cozy office in the center of Helsinki with great coffee.
