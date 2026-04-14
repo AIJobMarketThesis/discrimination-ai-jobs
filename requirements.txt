@@ -1,0 +1,5 @@
+streamlit
+openai
+reportlab
+python-dotenv
+faker
